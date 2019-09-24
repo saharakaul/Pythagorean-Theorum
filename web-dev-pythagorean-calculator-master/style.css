@@ -1,0 +1,17 @@
+body {
+    background-color: maroon;
+    font-family: "Open Sans", sans-serif;
+}
+div.main {
+    background-color: white;
+    margin: auto;
+    padding: 75px, 75px;
+    border-radius: 25px;
+    text-align: center;
+}
+h1, h2, h3 {
+    font-family: "Maven Pro";
+}
+h1 {
+    color: #808000;
+}
